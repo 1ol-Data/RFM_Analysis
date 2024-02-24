@@ -3,9 +3,10 @@ RFM is a method used for analyzing customer value, creating customer segments. I
 
 RFM stands for the three dimensions:
 
-Recency – How recently did the customer purchase? / What is the last time of shopping?
-Frequency – How often does the customer purchase?
-Monetary Value – How much does the customer spend?
+Recency : How recently did the customer purchase? / What is the last time of shopping?
+Frequency : How often does the customer purchase?
+Monetary Value : How much does the customer spend?
+
 Steps:
 
 Find R, F and M values
