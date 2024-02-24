@@ -32,15 +32,16 @@ Most of their customers are wholesale traders.
 
 Variables:
 
-InvoiceNo: Invoice number. The unique number for each transaction i.e. invoice. If this code starts with C, it indicates that the transaction has been canceled.
-StockCode: Product code. Unique number for each product.
-Description: Product name
-Quantity: Number of items. It expresses how many products in the invoices are sold.
-InvoiceDate: Invoice date and time.
-UnitPrice: Product price (in Pounds)
-CustomerID: Unique customer number
-Country: Country name. The country where the customer lives.
-Customer Segmentation with RFM Scores
+*  InvoiceNo: Invoice number. The unique number for each transaction i.e. invoice. If this code starts with C, it indicates that the transaction has been canceled.
+*  StockCode: Product code. Unique number for each product.
+*  Description: Product name
+*  Quantity: Number of items. It expresses how many products in the invoices are sold.
+*  InvoiceDate: Invoice date and time.
+*  UnitPrice: Product price (in Pounds)
+*  CustomerID: Unique customer number
+*  Country: Country name. The country where the customer lives.
+*  Customer Segmentation with RFM Scores
+
 It consists of the initials of Recency, Frequency, Monetary.
 
 It is a technique that helps determine marketing and sales strategies based on customers' buying habits.
