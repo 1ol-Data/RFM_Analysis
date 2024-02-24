@@ -1,5 +1,4 @@
-# RFM
-RFM_Analysis
+# RFM_Analysis
 RFM is a method used for analyzing customer value, creating customer segments. It is commonly used in database marketing and direct marketing and has received particular attention in retail and professional services industries.
 
 RFM stands for the three dimensions:
